@@ -5,7 +5,7 @@ import Button from "../Button/Button";
 const projectData = {
   one: {
     name: "Video",
-    imageUrl: "/images/intuition.webp",
+    imageUrl: "/images/interalliance.jpg",
     externalLink: "https://youtu.be/ij2vrkoVI8c",
     content: [
       {
@@ -19,7 +19,7 @@ const projectData = {
   },
   two: {
     name: "Video",
-    imageUrl: "/images/develop-plan.webp",
+    imageUrl: "/images/hackclub.png",
     externalLink: "https://www.youtube.com/watch?v=VaidlrZSVqI",
     content: [
       {
@@ -34,7 +34,7 @@ const projectData = {
   },
   three: {
     name: "Video",
-    imageUrl: "/images/multiplayer-game.webp",
+    imageUrl: "/images/LI.png",
     externalLink: "https://www.youtube.com/watch?v=6QdkIOo-fe0",
     content: [
       {
